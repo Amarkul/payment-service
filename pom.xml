@@ -108,6 +108,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>payment-service-1.0.0</finalName>
 	</build>
 
 </project>
